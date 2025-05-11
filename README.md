@@ -12,8 +12,8 @@ STM32 CUBE IDE, Proteus 8 simulator .
  ![378259408-00289a7f-95e5-434a-918f-27dac5363355](https://github.com/user-attachments/assets/c54ff19e-bb95-4c62-8976-ca132be3f063)
 
 ## Program
-## NAME: PREM R
-## REG NO:212223240124
+## NAME: REHAN JEYAN
+## REG NO:212223040167
 ```
 #include "main.h"
 #include "lcd.h"
